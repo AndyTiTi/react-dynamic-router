@@ -22,7 +22,7 @@ This project is a Single Page Application (SPA) built with Vite, React, and Reac
 
 1. Clone the project to your local machine
    ```
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/AndyTiTi/react-dynamic-router.git
    ```
 2. Enter the project directory
    ```

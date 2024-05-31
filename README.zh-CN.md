@@ -22,7 +22,7 @@
 
 1. 克隆项目到本地机器
    ```
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/AndyTiTi/react-dynamic-router.git
    ```
 2. 进入项目目录
    ```
