@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/",
+    "element": "HomePage",
+    "children": [
+      {
+        "path": "profile",
+        "element": "ProfilePage"
+      },
+      {
+        "path": "settings",
+        "element": "SettingsPage",
+        "children": [
+          {
+            "path": "profile",
+            "element": "SettingsProfilePage"
+          },
+          {
+            "path": "account",
+            "element": "SettingsAccountPage"
+          }
+        ]
+      }
+    ]
+  }
+]
